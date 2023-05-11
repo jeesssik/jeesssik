@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesica</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
-<p align="center"> <img src="[https://komarev.com/ghpvc/?username=jeesssik&label=Profile%20views&color=0e75b6&style=flat](https://media.tenor.com/_4YgA77ExHEAAAAd/rick-roll.gif)" alt="jeesssik" /> </p>
+<p align="center"> <img src="https://media.tenor.com/_4YgA77ExHEAAAAd/rick-roll.gif" alt="jeesssik" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeesssik&label=Profile%20views&color=0e75b6&style=flat" alt="jeesssik" /> </p>
 
