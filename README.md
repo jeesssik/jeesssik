@@ -4,7 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeesssik&label=Profile%20views&color=0e75b6&style=flat" alt="jeesssik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeesssik" alt="jeesssik" /></a> </p>
+<div>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+
+</div>
 
 <p align="left"> <a href="https://twitter.com/jeesssik" target="blank"><img src="https://img.shields.io/twitter/follow/jeesssik?logo=twitter&style=for-the-badge" alt="jeesssik" /></a> </p>
 
