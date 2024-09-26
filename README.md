@@ -4,7 +4,7 @@
 
 
 <div align="center">
- <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="480" height="auto" />
+ <img src="https://j.gifs.com/y4WA2E.gif" width="480" height="auto" />
 
 </div>
 
@@ -22,10 +22,12 @@ Languages and Tools ![turtle](http://i.imgur.com/879dfXS.gif):
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=jeesssik&theme=tokyonight" alt="muskanrani"/>
 </div>
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeesssik&layout=compact&count_private=true&theme=tokyonight" /><br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeesssik&theme=tokyonight" />  
+
+![Jesica's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeesssik)
 </div>
 
 
