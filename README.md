@@ -20,15 +20,14 @@ Languages and Tools ![turtle](http://i.imgur.com/879dfXS.gif):
 
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=jeesssik"/>
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=jeesssik&theme=tokyonight" alt="muskanrani"/>
 </div>
 <div align="center">
-    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=jeesssik&theme=gruvbox_light&layout=compact"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeesssik&layout=compact&count_private=true&theme=tokyonight" /><br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeesssik&theme=tokyonight" />  
 </div>
 
-<div align="center">
-    <img align="center" height="200px" src="https://github-profile-trophy.vercel.app/?username=jeesssik&&title=MultiLanguage,Repositories,Commits&column=2&margin-w=80&margin-h=25"/> 
-</div>
 
 
 <h3 align="right">Connect with me:</h3>
