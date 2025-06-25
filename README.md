@@ -19,9 +19,7 @@ Languages and Tools ![turtle](http://i.imgur.com/879dfXS.gif):
 
 
 
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=jeesssik&theme=tokyonight" alt="muskanrani"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeesssik&theme=dracula&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 <div align="center">
 
