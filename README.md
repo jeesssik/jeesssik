@@ -1,39 +1,70 @@
-<h1 align="center">Hi 👋, I'm Jesica</h1>  
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hi 👋, I'm Jesica Rodriguez</h1>
 
-
+<h3 align="center">
+Game Development Student 🎮 • Tech Educator 👩‍🏫 • EdTech & Immersive Learning Advocate 🚀
+</h3>
 
 <div align="center">
  <img src="https://j.gifs.com/y4WA2E.gif" width="480" height="auto" />
-
 </div>
 
+---
+## 🇦🇷 Sobre mí
 
+Soy desarrolladora y docente de tecnología.
 
+Actualmente estudio la **Licenciatura en Producción y Desarrollo de Videojuegos**, integrando programación, diseño y experiencias inmersivas a mi práctica educativa.
 
-Languages and Tools ![turtle](http://i.imgur.com/879dfXS.gif):
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://learn.unity.com/u/62601d4fedbc2a4f714d02c3" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+Trabajo con metodologías basadas en proyectos reales:
+mis estudiantes construyen aplicaciones, APIs, bases de datos y experiencias en Unity.
 
+Creo que la tecnología se aprende construyendo.
 
+---
 
+## 🌎 About Me
 
+I’m a Full-Stack Developer and Tech Educator from Argentina, currently pursuing a Bachelor's Degree in **Game Production & Development**.
 
+My work connects three areas:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeesssik&theme=dracula&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+🎮 Game Development  
+🧠 Education Technology (EdTech)  
+🥽 Immersive Experiences (VR / Mixed Reality)
+
+I design project-based learning systems where students build real applications — from web platforms to immersive environments.
+
+I don’t just teach code.  
+I design interactive learning experiences.
+
+---
+
+## 🎮 Currently Exploring
+
+- Game mechanics for educational purposes
+- Immersive learning environments
+- VR-based interaction design
+
+---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeesssik&layout=compact&count_private=true&theme=tokyonight" /><br>
-
-![Jesica's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeesssik)
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@jeesssik/0f04d3c6-d1db-4ff3-9fdb-27f5f9fe5784.png" />
+  </a>
 </div>
 
+## 📚 Open Learning Resources
 
+I create structured tutorials and project-based courses.
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://twitter.com/jeesssik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeesssik" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jeesssik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jeesssik" height="30" width="40" /></a>
-</p>
+📘 Databases Fundamentals  
+🔗 https://tu-link-notion-1
 
+⚛️ React Project Workshop  
+🔗 https://tu-link-notion-2
 
+📱 Mobile Apps with React Native  
+🔗 https://tu-link-notion-3
+
+🎮 Introduction to Unity & Game Development  
+🔗 https://tu-link-notion-4
