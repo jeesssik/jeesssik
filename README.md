@@ -57,14 +57,14 @@ I design interactive learning experiences.
 
 I create structured tutorials and project-based courses.
 
-📘 Databases Fundamentals  
-🔗 https://tu-link-notion-1
+📘 Aprendiendo HTML  
+🔗 https://tinyurl.com/AprendiendoHTML
 
-⚛️ React Project Workshop  
-🔗 https://tu-link-notion-2
+⚛️ Intro a JS 
+🔗 https://intro-a-js.super.site/
 
-📱 Mobile Apps with React Native  
+<!--📱 Mobile Apps with React Native  
 🔗 https://tu-link-notion-3
 
 🎮 Introduction to Unity & Game Development  
-🔗 https://tu-link-notion-4
+🔗 https://tu-link-notion-4  -->
