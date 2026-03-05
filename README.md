@@ -48,9 +48,14 @@ I design interactive learning experiences.
 ---
 
 <div align="center">
-  <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@jeesssik/0f04d3c6-d1db-4ff3-9fdb-27f5f9fe5784.png" />
-  </a>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeesssik&theme=date_night"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeesssik&theme=date_night"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeesssik&theme=date_night"/>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeesssik&theme=date_night&utcOffset=3"/>
+    
+ 
+ 
+ <a><img src="https://wakatime.com/share/@jeesssik/4877684a-ce00-4d24-a1f2-430639782822.png" /></a>
 </div>
 
 ## 📚 Open Learning Resources
